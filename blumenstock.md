@@ -1,6 +1,7 @@
 # Response to Joshua Blumenstock's article
 
 ## Irene Liu
+   (1/28/20)
 
 Blumenstock began the article by mentioning that big data has a lot of potential to be used for the greater good on a global scale, but there are currently a couple pitfalls. Some of the ones he mentioned were corruption within governments or those in power who have access to the big data, inability for some algorithms to update and adapt to constantly-changing environments, and bias within social institutions can lead to misleading results. The problem that stuck out to me the most was that many people who live in poverty or lower income countries don't have access to information or education that would allow them to be able to interpret what data made available to them for their own benefit. Luckily, Blumenstock mentioned that larger companies like Google and Facebook, higher level institutions, and data science conferences are making this education available to those who need it to teach technical capacity to locals who wouldn't normally have access to any of these resources. Besides this development, Blumenstock also gave a few other ideas for moving forward like better collaboration between parties with the resources to develop data and those directly affected by third-world issues, making sure new sources of data complement old ones and change as needed instead of just outrightly replacing them, and customizing algorithms that already exist in our everyday lives to address specific needs.
 
