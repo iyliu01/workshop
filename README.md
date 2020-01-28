@@ -3,7 +3,7 @@
 
 
 ## Responses to Readings
-1. [Blumenstock question](https://github.com/iyliu01/workshop/blob/master/blumenstock.md)
+1. [Blumenstock question](https://github.com/iyliu01/workshop/blob/master/blumenstock.md) (Jan. 28)
 
 
 ## Projects
